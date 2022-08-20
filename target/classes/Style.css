@@ -1,0 +1,23 @@
+.panel {
+    -fx-background-color: #5bb4e3;
+}
+
+.button{
+    -fx-background-color: #41adc0;
+}
+
+.table-view{
+    -fx-background-color: -fx-table-cell-border-color, #8a8585;
+}
+
+.list-view{
+    -fx-background-color: #8a8585;
+}
+
+.text{
+    -fx-color-label-visible: orange;
+}
+
+.title{
+    -fx-font-size: 30px;
+}
